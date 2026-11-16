@@ -1,0 +1,63 @@
+{
+  "maya-28": {
+    "id": "maya-28",
+    "recipientName": "Maya",
+    "age": "28",
+    "relationship": "Friend",
+    "vibe": "heartfelt",
+    "memories": "Midnight taco runs after ceramics class, getting rained out at the outdoor jazz festival and laughing the entire walk home, always ordering two desserts for the table.",
+    "senderName": "Sam & the Crew",
+    "theme": "blush",
+    "celebration": "cake",
+    "passcodeEnabled": true,
+    "passcode": "3105",
+    "passcodeHint": "Try 3105 to unlock",
+    "balloonWords": [
+      "You",
+      "are",
+      "so",
+      "special"
+    ],
+    "bouquetNotes": [
+      "Forever grateful for you",
+      "You make every room brighter",
+      "You are pure sunshine",
+      "Happy 28th, Maya!",
+      "Lucky to share life with you",
+      "Two desserts forever"
+    ],
+    "headline": "Twenty-Eight Years of Brightening Every Room",
+    "message": "Happy 28th birthday, Maya!\n\nSome friendships feel effortless from day one, and ours has been built on the best kind of everyday magic—midnight taco runs after ceramics class, getting soaked at the jazz festival and laughing the whole walk home, and never once regretting ordering two desserts for the table.\n\nThank you for showing up with warmth, humor, and genuine care. No matter where this year takes you, know you are endlessly celebrated.",
+    "toastQuote": "To two desserts for the table and zero regrets.",
+    "createdAt": "2026-11-16T08:00:00.000Z",
+    "updatedAt": "2026-11-16T08:00:00.000Z",
+    "notes": [
+      {
+        "id": "note-1",
+        "authorName": "Elena Vance",
+        "relationship": "College Roommate",
+        "message": "Still thinking about how you convinced us to adopt a sourdough starter during finals week. Wishing you the happiest 28th!",
+        "memory": "The 2 AM focaccia rescue mission",
+        "createdAt": "2026-11-16T08:15:00.000Z",
+        "cheers": 4
+      },
+      {
+        "id": "note-2",
+        "authorName": "Devon Park",
+        "relationship": "Studio Partner",
+        "message": "Nobody centers a stoneware bowl—or a chaotic Monday morning—quite like you. Save a slice of cake for the studio!",
+        "memory": "Kiln unloading Fridays",
+        "createdAt": "2026-11-16T08:42:00.000Z",
+        "cheers": 3
+      },
+      {
+        "id": "note-3",
+        "authorName": "Priya Nair",
+        "relationship": "Friend",
+        "message": "May your year ahead be packed with sunny patios, spontaneous road trips, and coffee that never goes cold.",
+        "createdAt": "2026-11-16T09:10:00.000Z",
+        "cheers": 5
+      }
+    ]
+  }
+}

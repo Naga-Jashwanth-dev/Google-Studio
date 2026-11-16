@@ -1,0 +1,8 @@
+{
+  "name": "Wishcraft",
+  "description": "Create, animate, and share personalized birthday wishes, interactive digital cards, and collaborative group birthday boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
